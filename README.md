@@ -29,7 +29,7 @@ This overhaul ensures that users no longer need to manually track or download se
 
 ## Contact
 
-- Discord: [discord.gg/Ab46BBrWtW](https://discord.gg/Ab46BBrWtW)
+- Discord: https://discord.gg/k9QMDauKyg
 
 ---
 
