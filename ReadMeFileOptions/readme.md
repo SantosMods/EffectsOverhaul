@@ -26,8 +26,8 @@ This overhaul ensures you no longer need to download separate files for individu
 - For support or to report issues, join our Discord server or visit our website.
 
 ## Contact
-- Discord: [DeputyMods Discord Server](https://discord.gg/z86yU86PQU)
-- Website: [DeputyMods Official Website](https://www.deputymods.com)
+- Discord: [SantosMods.dev Discord Server](https://links.santosmods.dev/discord)
+- Website: [Santosmods.dev Official Website](https://santosmods.dev)
 
 ## Special Thanks
 Huge shoutout to **geoffrey_gamer** for reviewing our mods!
