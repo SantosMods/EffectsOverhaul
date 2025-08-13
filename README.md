@@ -29,7 +29,7 @@ This overhaul ensures that users no longer need to manually track or download se
 
 ## Contact
 
-- Discord: https://discord.gg/k9QMDauKyg
+- Discord: https://links.santosmods.dev/discord
 
 ---
 
