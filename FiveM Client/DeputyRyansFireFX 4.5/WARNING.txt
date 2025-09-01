@@ -1,0 +1,5 @@
+This modification changes how your game handles certain effects.  
+- Fire can spread extra and ignite your player, causing damage.  
+- Use with caution.
+
+We are not responsible for broken server rules, RP disruptions, or any other issues that may arise from using this modification.

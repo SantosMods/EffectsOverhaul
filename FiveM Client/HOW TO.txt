@@ -1,0 +1,6 @@
+1. Press **WIN+R** and paste:
+   %localappdata%\FiveM\FiveM.app\citizen\common\data\effects
+
+2. Place the `.dat` file inside that folder.
+
+3. Launch the game and enjoy!
