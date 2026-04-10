@@ -1,0 +1,75 @@
+EffectsOverhaul – Acuerdo de Licencia
+Versión: 2.0
+Fecha de Vigencia: 01/09/2025
+
+Esta compilación de mod (“Trabajo”) es propiedad con derechos de autor de SantosMods.dev. Todos los derechos están estrictamente reservados, salvo que se otorguen explícitamente en este documento.
+
+---
+
+1. USO PERMITIDO
+
+Se le concede una licencia limitada, personal, no comercial, no transferible y revocable para:
+
+- Descargar y usar la versión original, sin modificaciones, de este mod para uso personal dentro de Grand Theft Auto V.
+- Compartir el archivo original, sin modificaciones, otorgando el crédito correspondiente a SantosMods.dev e incluyendo un enlace a la página oficial de lanzamiento.
+
+---
+
+2. RESTRICCIONES
+
+Usted no puede:
+
+- Modificar, editar, realizar ingeniería inversa ni crear trabajos derivados de este mod.
+- Extraer o reutilizar cualquier recurso o código incluido en otros trabajos o proyectos.
+- Subir nuevamente, redistribuir o alojar este mod fuera de las plataformas oficiales indicadas abajo.
+- Usar este mod con fines comerciales, incluyendo servidores de FiveM con donaciones u otras plataformas monetizadas.
+- Eliminar o alterar cualquier atribución, crédito o metadatos dentro de los archivos del mod.
+
+---
+
+3. UBICACIONES OFICIALES DE PUBLICACIÓN
+
+Este mod se publica oficialmente solo en las siguientes plataformas:
+
+- https://santosmods.dev
+- https://www.gta5-mods.com
+- https://www.lcpdfr.com
+- https://github.com/SantosMods
+
+Todas las demás distribuciones son no autorizadas y pueden ser inseguras o estar alteradas.
+
+---
+
+4. SOPORTE Y ERRORES
+
+El soporte está disponible para problemas de instalación o errores del mod. Contacto:
+
+- Correo: system@santosmods.dev
+- Sitio web: https://santosmods.dev
+
+---
+
+5. CUMPLIMIENTO DE DERECHOS DE AUTOR
+
+El uso no autorizado puede resultar en:
+
+- Notificaciones de retirada DMCA a las plataformas infractoras
+- Acciones legales de acuerdo con las leyes de derechos de autor aplicables
+
+Monitoreamos el uso no autorizado y protegeremos nuestra propiedad intelectual en consecuencia.
+
+---
+
+6. DESCARGO DE RESPONSABILIDAD
+
+Este mod se proporciona “tal cual” sin garantías de ningún tipo. SantosMods.dev no se hace responsable por problemas, conflictos o daños derivados del uso o mal uso.
+
+---
+
+7. ACEPTACIÓN
+
+Al descargar o usar este mod, usted acepta los términos de este Acuerdo de Licencia. El uso no autorizado constituye una violación de estos términos.
+
+Para solicitudes de permisos o consultas de licencia, contáctenos a través de los medios indicados anteriormente.
+
+No nos hacemos responsables por reglas de servidores rotas, interrupciones de rol (RP) u otros problemas que puedan surgir del uso de esta modificación.

@@ -1,4 +1,4 @@
-This modification changes how your game handles certain effects.  
+This modification changes how YOUR game handles certain effects.  
 - Fire can spread extra and ignite your player, causing damage.  
 - Use with caution.
 
